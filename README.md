@@ -1,4 +1,3 @@
-Power BI Dashboard
 I'm excited to present our new Power BI dashboard, a comprehensive tool designed to provide deep insights into our ecommerce operations across Indian states. This dashboard covers sales trends, profit analysis, product categories, and top customers, empowering you with data for informed decision-making.
 
 Geographic Sales Insights:
